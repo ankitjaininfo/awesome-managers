@@ -1,6 +1,8 @@
 # awesome-managers
 I find that there are very few people who want to build their careers as Technical Software Engineering Manager. Instead they prefer to be Tech Lead or an Architect. Here is a curated list of articles and advice that help becoming an awesome software engineering manager!
 
+### I become Software Engineering Manager so..
+* [Don’t Even Think About Taking That Manager Job If You Can’t Do This](https://www.girlboss.com/work/first-time-manager-checklist)
 
 ### Behaviors
 
@@ -11,6 +13,7 @@ I find that there are very few people who want to build their careers as Technic
 
 ### Project Execution
 
+* [Stop future proofing software](https://medium.com/@george3d6/stop-future-proofing-software-c984cbd65e78) - We need **X**, despite **Y** being a much easier alternative, because when **Z**, it will make our lives easier.
 * [Imaginary Problems Are the Root of Bad Software](https://medium.com/s/story/imaginary-problems-d4f2921bd1b8) - Just because they’re fun to solve doesn’t mean they’re relevant
 * [In Pursuit of Production Minimalism](https://brandur.org/minimalism) - While complexity is never a conscious design goal of any project, it arises inherently as new features are pursued or new components are introduced. KISS (“keep it simple, stupid”) - a principle that suggests glibly that systems should be designed to be as simple as possible.
 

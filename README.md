@@ -1,5 +1,7 @@
 # awesome-managers
-I find that there are very few people who want to build their careers as Technical Software Engineering Manager. Instead they prefer to be Tech Lead or an Architect. Here is a curated list of articles and advice that help becoming an awesome software engineering manager!
+I find that there are very few people who want to build their careers as technical _Software Engineering Manager_. Instead they prefer to be Tech Lead or Architect. People think that management is difficult. Why? Because they are required to have diverse skill sets and wear multiple hats to become an effective manager. For sure, these skills are rare to find in one person!
+
+Here is a curated list of articles and advice that help becoming an awesome software engineering manager!
 
 ### I become Software Engineering Manager so..
 * [Don’t Even Think About Taking That Manager Job If You Can’t Do This](https://www.girlboss.com/work/first-time-manager-checklist)
@@ -10,6 +12,13 @@ I find that there are very few people who want to build their careers as Technic
 * [How to Be a Person Who Can Make a Damn Decision](https://melmagazine.com/how-to-be-a-person-who-can-make-a-damn-decision-c8e374d01d52) - Often, any decision is better than no decision at all
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - How often did teammates socialize outside the office?
 * [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes) - I believed my technical ability entitled me to lead. I wanted to control, everything when I needed to empower others. etc.
+* [Become a Productive Engineering Manager](http://theengineeringmanager.com/management-101/feeling-productive/) - work towards “inbox zero”, meeting has to be in there in calendar, start day with a prioritized to-do list, etc.
+
+### Mentoring Your Team
+
+* [Why Developers Become Frustrated And Companies Can’t Find Talent 🔊](https://codeburst.io/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac)
+* [1 to 1s](http://theengineeringmanager.com/management-101/121s/) - (a) A private space is where you build rapport and trust, (b) to exercise your influence (BY offerING advice, opinions, coaching, and support), (c) manager should do only 30% of the talking - it’s their meeting, (d) check on goals - shows that you are thinking of their development.
+
 
 ### Project Execution
 
@@ -22,6 +31,3 @@ I find that there are very few people who want to build their careers as Technic
 
 * [Boost ROI on your next development project!](https://medium.com/@MentorMate/boost-roi-on-your-next-development-project-10768dc8e8) - Ask - to get clarity. Be Vocal - to understand pain points. Cull existing metrics - measure metrics!
 
-### Mentoring Your Team
-
-* [Why Developers Become Frustrated And Companies Can’t Find Talent 🔊](https://codeburst.io/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac)

@@ -12,7 +12,7 @@ Here is a curated list of articles and advice that help becoming an awesome soft
 * [How to Be a Person Who Can Make a Damn Decision](https://melmagazine.com/how-to-be-a-person-who-can-make-a-damn-decision-c8e374d01d52) - Often, any decision is better than no decision at all
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - How often did teammates socialize outside the office?
 * [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes) - I believed my technical ability entitled me to lead. I wanted to control, everything when I needed to empower others. etc.
-* [Become a Productive Engineering Manager](http://theengineeringmanager.com/management-101/feeling-productive/) - work towards “inbox zero”, meeting has to be in there in calendar, start day with a prioritized to-do list, etc.
+* [Become a Productive Engineering Manager](http://theengineeringmanager.com/management-101/feeling-productive/) - (a) work towards “inbox zero”, (b) every meeting has to be in there in calendar, (c) start day with a prioritized to-do list, etc.
 
 ### Mentoring Your Team
 
@@ -31,3 +31,6 @@ Here is a curated list of articles and advice that help becoming an awesome soft
 
 * [Boost ROI on your next development project!](https://medium.com/@MentorMate/boost-roi-on-your-next-development-project-10768dc8e8) - Ask - to get clarity. Be Vocal - to understand pain points. Cull existing metrics - measure metrics!
 
+### Courses
+
+* [Management 101](http://theengineeringmanager.com/management-101/) - talks about your first job as manager, 1-1 with team, when people leave, art of delegation, hiring, etc.

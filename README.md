@@ -18,6 +18,7 @@ Here is a curated list of articles and advice that help becoming an awesome soft
 
 * [Why Developers Become Frustrated And Companies Can’t Find Talent 🔊](https://codeburst.io/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac)
 * [1 to 1s](http://theengineeringmanager.com/management-101/121s/) - (a) A private space is where you build rapport and trust, (b) to exercise your influence (BY offerING advice, opinions, coaching, and support), (c) manager should do only 30% of the talking - it’s their meeting, (d) check on goals - shows that you are thinking of their development.
+* [Running effective 1 to 1 meetings](https://blog.impraise.com/360-feedback/how-to-run-effective-one-on-one-meetings-as-manager) Talks about - setting the mindset and free form meeting, asking right questions, making it informal with no agenda,.
 
 
 ### Project Execution

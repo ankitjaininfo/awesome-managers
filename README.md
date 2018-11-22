@@ -1,10 +1,14 @@
 # awesome-managers
-I find that there are very few people who want to build their careers as technical _Software Engineering Manager_. Instead they prefer to be Tech Lead or Architect. People think that management is difficult. Why? Because they are required to have diverse skill sets and wear multiple hats to become an effective manager. For sure, these skills are rare to find in one person!
+I find that there are very few people who want to build their careers as technical _Software Engineering Manager_. Instead they prefer to be Tech Lead or Architect. People think that management is difficult. Why? Because, this role is not about __just__ the Tech. It is easier to fight with technology, but difficult to get people together and trust you! That's the challenge! Are you in for it?
 
-Here is a curated list of articles and advice that help becoming an awesome software engineering manager!
+Being an _Engineering Manager or Leader_ requires to have diverse skill sets and wear multiple hats to be effective. For sure, these skills are rare to find in one person, but we can learn and improve. A great engineering manager/leader should be a constant learner, challenging his/her (past) preception, being aware of the tech-stack, first user of the product, a decision maker, mentoring people and should work towards _Success For All_!
+
+Instead of reading some books, I prefer to read real experiences of multiple people in form of blog posts. This gives me diverse prespective on how others are doing this job, and what should I improve on. Here is a curated list of articles and advices that may help you becoming an _awesome software engineering leader_!
 
 ### I become Software Engineering Manager so..
 * [Don’t Even Think About Taking That Manager Job If You Can’t Do This](https://www.girlboss.com/work/first-time-manager-checklist)
+* [Lessons Learned in First Year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/) This role is not about the tech. It is also about the tech. It is primarily about the people. Your puzzle is no longer just technology. Your puzzle is humans first and technology next. 
+
 
 ### Behaviors
 
@@ -20,7 +24,7 @@ Here is a curated list of articles and advice that help becoming an awesome soft
 * [Why Developers Become Frustrated And Companies Can’t Find Talent 🔊](https://codeburst.io/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac)
 * [1 to 1s](http://theengineeringmanager.com/management-101/121s/) - (a) A private space is where you build rapport and trust, (b) to exercise your influence (BY offerING advice, opinions, coaching, and support), (c) manager should do only 30% of the talking - it’s their meeting, (d) check on goals - shows that you are thinking of their development.
 * [Running effective 1 to 1 meetings](https://blog.impraise.com/360-feedback/how-to-run-effective-one-on-one-meetings-as-manager) Talks about - setting the mindset and free form meeting, asking right questions, making it informal with no agenda,.
-
+* Coaching to retain, create new opportunities for people to learn and grow - [TODO - Find]
 
 ### Project Execution
 
@@ -32,6 +36,13 @@ Here is a curated list of articles and advice that help becoming an awesome soft
 ### ROI - Return Of Investment
 
 * [Boost ROI on your next development project!](https://medium.com/@MentorMate/boost-roi-on-your-next-development-project-10768dc8e8) - Ask - to get clarity. Be Vocal - to understand pain points. Cull existing metrics - measure metrics!
+* Success For All - [TODO - Ankit]
+
+### Hiring / Recruiting ###
+
+TODO ref:
+1. https://twitter.com/jasonlk/status/1037553524408635392
+2. https://www.linkedin.com/feed/update/urn:li:activity:6447520396286717952/
 
 ### Courses
 

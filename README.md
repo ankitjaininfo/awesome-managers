@@ -13,6 +13,7 @@ Here is a curated list of articles and advice that help becoming an awesome soft
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - How often did teammates socialize outside the office?
 * [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes) - I believed my technical ability entitled me to lead. I wanted to control, everything when I needed to empower others. etc.
 * [Become a Productive Engineering Manager](http://theengineeringmanager.com/management-101/feeling-productive/) - (a) work towards “inbox zero”, (b) every meeting has to be in there in calendar, (c) start day with a prioritized to-do list, etc.
+* [Trust - the Key Success Factor for Teams & Organisations](https://www.slideshare.net/marin_dimitrov/trust-the-key-success-factor-for-teams-organisations) -  Marin Dimitrov talks about - why trust is a key success factor for every team and every organisation, some good practices for building, and most  common mistakes related to trust building.
 
 ### Mentoring Your Team
 

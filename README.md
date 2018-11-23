@@ -1,14 +1,14 @@
 # awesome-managers
-I find that there are very few people who want to build their careers as technical _Software Engineering Manager_. Instead they prefer to be Tech Lead or Architect. People think that management is difficult. Why? Because, this role is not about __just__ the Tech. It is easier to fight with technology, but difficult to get people together and trust you! That's the challenge! Are you in for it?
+I find that there are very few engineers who want to grow into technical _Software Engineering Manager_. Instead they prefer to be a Tech Lead or an Architect. People think that management is difficult. Why? Because, this role is not about __just__ the Tech. It is easier to fight with technology, but difficult to get people together and trust you! That's the challenge! Are you in for it?
 
 Being an _Engineering Manager or Leader_ requires to have diverse skill sets and wear multiple hats to be effective. For sure, these skills are rare to find in one person, but we can learn and improve. A great engineering manager/leader should be a constant learner, challenging his/her (past) preception, being aware of the tech-stack, first user of the product, a decision maker, mentoring people and should work towards _Success For All_!
 
-Instead of reading some books, I prefer to read real experiences of multiple people in form of blog posts. This gives me diverse prespective on how others are doing this job, and what should I improve on. Here is a curated list of articles and advices that may help you becoming an _awesome software engineering leader_!
+Instead of reading some multi-page books, I prefer to read real experiences of people and their advices. These are typically available as journal articles or blogs. This gives me diverse prespective on how others are doing thier job, and what should I improve on. Here is a curated list of articles and advices that I found helpful, and shall help you becoming an _awesome software engineering leader_!
 
-### I become Software Engineering Manager so..
+### I become Software Engineering Manager so...
 * [Don’t Even Think About Taking That Manager Job If You Can’t Do This](https://www.girlboss.com/work/first-time-manager-checklist)
 * [Lessons Learned in First Year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/) This role is not about the tech. It is also about the tech. It is primarily about the people. Your puzzle is no longer just technology. Your puzzle is humans first and technology next. 
-
+* [It is not a promotion. It is a career change](http://fractio.nl/2014/09/19/not-a-promotion-a-career-change/) You exist to think about the bigger picture, to remove roadblocks and eliminate interruptions for the people you work with,  to build relationships and trust. You exist to promote the group and individual achievements. Your job is to be a multiplier!
 
 ### Behaviors
 

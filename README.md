@@ -5,6 +5,8 @@ Being an _Engineering Manager or Leader_ requires to have diverse skill sets and
 
 Instead of reading some multi-page books, I prefer to read real experiences of people and their advices. These are typically available as journal articles or blogs. This gives me diverse prespective on how others are doing thier job, and what should I improve on. Here is a curated list of articles and advices that I found helpful, and shall help you becoming an _awesome software engineering leader_!
 
+_Note: There exists many other reading lists in the wild. This page lists articles that I have read and recommend to my fellows._
+
 ### I become Software Engineering Manager so...
 * [Don’t Even Think About Taking That Manager Job If You Can’t Do This](https://www.girlboss.com/work/first-time-manager-checklist)
 * [Lessons Learned in First Year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/) This role is not about the tech. It is also about the tech. It is primarily about the people. Your puzzle is no longer just technology. Your puzzle is humans first and technology next. 
@@ -47,3 +49,8 @@ TODO ref:
 ### Courses
 
 * [Management 101](http://theengineeringmanager.com/management-101/) - talks about your first job as manager, 1-1 with team, when people leave, art of delegation, hiring, etc.
+
+
+### Further Reading and Reference Material 
+* [Awesome list - Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing#awesome-leadership-and-management-)
+

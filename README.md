@@ -57,4 +57,6 @@ If you have more time to spend on this topic, here are a few more references tha
 
 ### Further Reading and Reference Material 
 * [Awesome list - Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing#awesome-leadership-and-management-)
+* [Advice from Hacker News users: Going from Developer to Manager. What should I know or learn?
+](https://news.ycombinator.com/item?id=18823616)
 

@@ -1,11 +1,12 @@
 # awesome-managers
-I find that there are very few engineers who want to grow into technical _Software Engineering Manager_. Instead they prefer to be a Tech Lead or an Architect. People think that management is difficult. Why? Because, this role is not about __just__ the Tech. It is easier to fight with technology, but difficult to get people together and trust you! That's the challenge! Are you in for it?
 
-Being an _Engineering Manager or Leader_ requires to have diverse skill sets and wear multiple hats to be effective. For sure, these skills are rare to find in one person, but we can learn and improve. A great engineering manager/leader should be a constant learner, challenging his/her (past) preception, being aware of the tech-stack, first user of the product, a decision maker, mentoring people and should work towards _Success For All_!
+There aren't many engineers who aspire to grow into technical **Software Engineering Managers**. Instead, most seem to lean toward roles like Tech Lead or Architect. Why is that? Well, people often think management is tough. And they’re right. This role goes beyond just being good with technology. **It’s easier to tackle technical challenges, but getting people to work together and trust you?** That’s where it gets tricky. The real question is: are you up for it?
 
-Instead of reading some multi-page books, I prefer to read real experiences of people and their advices. These are typically available as journal articles or blogs. This gives me diverse prespective on how others are doing thier job, and what should I improve on. Here is a curated list of articles and advices that I found helpful, and shall help you becoming an _awesome software engineering leader_!
+Being an Engineering Manager or Leader requires a unique mix of skills, and you **have to wear a lot of hats to be truly effective**. Sure, finding all of these skills in one person is rare, but the good news is—you can always learn and grow. A great engineering manager should always be a learner, someone who’s constantly challenging their past perceptions, staying aware of the tech landscape, being the first user of the product, making decisions, mentoring others, and driving success for everyone involved.
 
-_Note: There exists many other reading lists in the wild. This page lists articles that I have read and recommend to my fellows._
+Instead of diving into lengthy books, **I prefer to learn from real experiences** and advice shared by others. These nuggets of wisdom are often found in journal articles or blog posts, which give me a broader perspective on how others are navigating their roles and what I can do to improve. Below, I’ve curated a list of articles and advice that have helped me on my journey to becoming a better software engineering leader—and I hope they’ll help you too!
+
+_Note: There are plenty of reading lists out there, but this one is my personal recommendation based on what I’ve read and found useful._
 
 ### I become Software Engineering Manager so...
 * [Don’t Even Think About Taking That Manager Job If You Can’t Do This](https://www.girlboss.com/work/first-time-manager-checklist)
@@ -48,11 +49,11 @@ TODO ref:
 
 ---
 
-If you have more time to spend on this topic, here are a few more references that you can go thorugh and dive deeper. Some of these are structured in courses and others as curated lists from fellow leaders. (I have not gone thorugh each of these personally, but they appear good!)
+If you have more time to explore this topic, here are a few more references that you can dive into. Some of these are structured as courses, while others are curated lists from fellow leaders. I haven’t gone through all of them, but they seem promising and worth checking out!
 
 ### Courses
 
-* [Management 101](http://theengineeringmanager.com/management-101/) - talks about your first job as manager, 1-1 with team, when people leave, art of delegation, hiring, etc.
+* [Management 101](http://theengineeringmanager.com/management-101/) - talks about your first job as a manager, 1-1 with team, when people leave, art of delegation, hiring, etc.
 
 
 ### Further Reading and Reference Material 

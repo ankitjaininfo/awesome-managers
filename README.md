@@ -21,6 +21,9 @@ _Note: There are plenty of reading lists out there, but this one is my personal 
 * [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes) - I believed my technical ability entitled me to lead. I wanted to control, everything when I needed to empower others. etc.
 * [Become a Productive Engineering Manager](http://theengineeringmanager.com/management-101/feeling-productive/) - (a) work towards “inbox zero”, (b) every meeting has to be in there in calendar, (c) start day with a prioritized to-do list, etc.
 * [Trust - the Key Success Factor for Teams & Organisations](https://www.slideshare.net/marin_dimitrov/trust-the-key-success-factor-for-teams-organisations) -  Marin Dimitrov talks about - why trust is a key success factor for every team and every organisation, some good practices for building, and most  common mistakes related to trust building.
+* [6 Mistakes You’re Going to Make as a New Manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/) Moving from an Individual Contributor (IC) to a manager is a significant career step.  Matheus Lima describes his first couple of years as an Engineering Manager, realized lessons, and built a goal around.
+
+
 
 ### Mentoring Your Team
 
